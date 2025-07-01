@@ -1,0 +1,221 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.5.9)  17 JUN 2025 08:49
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/vasilmaznokov/Desktop/Uni/Programierung_1/Praktikum/Aufgabe_11/aufgabe30.tex
+(/Users/vasilmaznokov/Desktop/Uni/Programierung_1/Praktikum/Aufgabe_11/aufgabe30.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+(/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count272
+\c@section=\count273
+\c@subsection=\count274
+\c@subsubsection=\count275
+\c@paragraph=\count276
+\c@subparagraph=\count277
+\c@figure=\count278
+\c@table=\count279
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen146
+) (/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2025/04/29 v25.8 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+\babel@savecnt=\count280
+\U@D=\dimen147
+\l@unhyphenated=\language1
+ (/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count281
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-german/ngerman.ldf
+Language: ngerman 2024/12/10 v2.15 German support for babel (post-1996 orthography)
+ (/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/de/babel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+) (/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-german/ngermanb.ldf
+Language: ngermanb 2024/12/10 v2.15 German support for babel (post-1996 orthography)
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'German (new orthography)' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 48.
+
+Package babel Info: Making " an active character on input line 122.
+))) (/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend-dev/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-03-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count282
+) (aufgabe30.aux
+Package babel Info: 'ngerman' activates 'ngerman' shorthands.
+(babel)             Reported  on input line 5.
+)
+\openout1 = `aufgabe30.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 25--26
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[1
+
+{/Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}]
+
+[2]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 39--40
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[3]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 53--54
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[4]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 67--68
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[5]
+
+[6]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 81--82
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[7]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 95--96
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[8]
+
+[9]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 109--110
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[10]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 123--124
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[11]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 137--138
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[12]
+
+[13]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 151--152
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[14]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 165--166
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[15]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 179--180
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[16]
+
+[17]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 193--194
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[18]
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 207--208
+\T1/cmr/m/n/12 amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+ []
+
+
+
+[19]
+
+[20] (aufgabe30.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1855 strings out of 471882
+ 33321 string characters out of 5518502
+ 431183 words of memory out of 5000000
+ 28464 multiletter control sequences out of 15000+600000
+ 631885 words of font info for 49 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 48i,6n,56p,1005b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk> </Users/vasilmaznokov/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm2074.pk>
+Output written on aufgabe30.pdf (20 pages, 73163 bytes).
+PDF statistics:
+ 167 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
